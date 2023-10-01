@@ -1,1 +1,1 @@
-# Introducing the "Simon Says" Game
+# The "Simon Says" Game
